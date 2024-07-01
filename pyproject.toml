@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "aplikacja-bazy-danych"
+name = "aplikacja"
 version = "0.1.0"
 description = "Aplikacja na bazy danych"
 authors = ["Hairi43 <tanjiroowo12@gmail.com>"]
