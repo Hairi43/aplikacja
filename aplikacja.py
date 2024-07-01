@@ -1,4 +1,5 @@
-import wyslij
+#!/usr/bin/python
+
 import zapisz
 
 
