@@ -1,9 +1,8 @@
 # Instalacja pakietu
-1. Użyj komendy
+1. Użyj komendy aby pobrać repozytorium.
 ```
    git clone https://github.com/Hairi43/aplikacja.git
 ```
-aby pobrać repozytorium.
 2. Przejdź do pobranego repozytorium i użyj komendy
 ```
    poetry update
