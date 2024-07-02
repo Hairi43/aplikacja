@@ -1,3 +1,18 @@
+# Instalacja pakietu
+1. Użyj komendy
+```
+   git clone https://github.com/Hairi43/aplikacja.git aby pobrać repozytorium
+```
+2. Przejdź do pobranego repozytorium i użyj komendy
+```
+   poetry update
+```
+3. Uruchom program za pomocą komendy
+```
+  python3.11 aplikacja_kliencka.py
+```
+
+
 # Instrukcja dla domokrążcy
 
 ## Korzystanie z programu Zapisz
